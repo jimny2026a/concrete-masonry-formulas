@@ -1,0 +1,10 @@
+item,value,unit,derivation,source_id
+US modular brick face (actual),7.625 x 2.25,in,nominal 8 x 2-2/3 brick laid with 3/8 in joint,TTC-CALCS
+Mortar joint,0.375,in,standard 3/8 in joint,TTC-CALCS
+Bricks per square foot of wall,6.857,units/ft2,144 / ((7.625 + 0.375) x (2.25 + 0.375)) = 144 / 21,TTC-CALCS
+CMU block face (nominal incl. joint),8 x 16,in,nominal 8x16 block,TTC-CALCS
+CMU blocks per square foot of wall,1.125,units/ft2,144 / 128,TTC-CALCS
+Blocks laid per 80 lb mortar bag (rule of thumb),35,units/bag,rule of thumb stated on truetoolcalc.com mortar page,TTC-CALCS
+Bricks laid per 80 lb mortar bag (rule of thumb),100,units/bag,rule of thumb stated on truetoolcalc.com mortar page,TTC-CALCS
+Cubic feet per cubic yard,27,ft3/yd3,definition,DEFINITION
+Cubic meters per cubic foot,0.0283168466,m3/ft3,definition,DEFINITION

@@ -1,0 +1,22 @@
+brand,product,bag_size,bag_weight_lb,bag_weight_kg,yield_ft3,yield_liters,source_id
+Generic,Pre-mixed concrete (default used by truetoolcalc.com),40 lb,40,,0.30,,TTC-CALCS
+Generic,Pre-mixed concrete (default used by truetoolcalc.com),60 lb,60,,0.45,,TTC-CALCS
+Generic,Pre-mixed concrete (default used by truetoolcalc.com),80 lb,80,,0.60,,TTC-CALCS
+Quikrete,Concrete Mix No. 1101,40 lb,40,18.1,0.30,8.5,QUIKRETE-1101
+Quikrete,Concrete Mix No. 1101,50 lb,50,22.6,0.375,10.6,QUIKRETE-1101
+Quikrete,Concrete Mix No. 1101,60 lb,60,27.2,0.45,12.7,QUIKRETE-1101
+Quikrete,Concrete Mix No. 1101,80 lb,80,36.2,0.60,17,QUIKRETE-1101
+Quikrete,Concrete Mix No. 1101 (regional),90 lb,90,40.8,0.675,19.1,QUIKRETE-1101
+Sakrete,High-Strength Concrete Mix,40 lb,40,,0.30,,SAKRETE-HS
+Sakrete,High-Strength Concrete Mix,60 lb,60,,0.45,,SAKRETE-HS
+Sakrete,High-Strength Concrete Mix,80 lb,80,,0.60,,SAKRETE-HS
+Sakrete,High-Strength Concrete Mix,90 lb,90,,0.66,,SAKRETE-HS
+Sakrete,High-Strength Concrete Mix (Canada),25 kg,,25,0.41,,SAKRETE-HS
+Sakrete,5000 Plus Concrete Mix,50 lb,50,,0.38,,SAKRETE-5000
+Sakrete,5000 Plus Concrete Mix,60 lb,60,,0.47,,SAKRETE-5000
+Sakrete,5000 Plus Concrete Mix,80 lb,80,,0.60,,SAKRETE-5000
+Sakrete,Fast Setting Concrete Mix,50 lb,50,,0.38,,SAKRETE-FAST
+Sakrete,Crack Resistant Concrete Mix,50 lb,50,,0.38,,SAKRETE-CRACK
+Sakrete,Crack Resistant Concrete Mix,80 lb,80,,0.60,,SAKRETE-CRACK
+Sakrete,Maximizer Concrete Mix (lightweight),40 lb,40,,0.46,,SAKRETE-MAX
+Sakrete,Maximizer Concrete Mix (lightweight),80 lb,80,,0.92,,SAKRETE-MAX

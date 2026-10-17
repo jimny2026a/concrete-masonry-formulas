@@ -1,0 +1,9 @@
+{
+  "name": "concrete-masonry-formulas",
+  "version": "1.0.0",
+  "description": "Dependency-free concrete volume, bag-yield and masonry unit-count formulas with sourced data",
+  "main": "js/concrete-masonry.js",
+  "scripts": { "test": "node tests/test.js && python3 -m unittest discover -s tests", "tables": "node scripts/generate-tables.js" },
+  "keywords": ["concrete", "masonry", "calculator", "construction", "brick", "cmu"],
+  "license": "MIT"
+}
